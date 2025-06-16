@@ -1,5 +1,5 @@
 <Solution>
   <Project Path="RecordClassFixer/RecordClassFixer.Package/RecordClassFixer.Package.csproj" />
-  <Project Path="RecordClassFixer/RecordClassFixer.Vsix/RecordClassFixer.Vsix.csproj" />
+  <Project Path="RecordClassFixer/RecordClassFixer.Vsix/RecordClassFixer.Vsix.csproj" Id="e425dfd3-5501-4b5b-a52f-3ee1f512f514" />
   <Project Path="RecordClassFixer/RecordClassFixer/RecordClassFixer.csproj" />
 </Solution>
